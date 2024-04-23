@@ -1,6 +1,6 @@
 {
   "name": "sr14-todo-list",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Making To-Do List using inquirer, typescript and Node.js",
   "main": "index.js",
   "type": "module",
